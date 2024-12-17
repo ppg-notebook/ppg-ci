@@ -1,4 +1,13 @@
 ﻿  Main.c
-E:\gitSorce\ccpp\step1\chapter4\Main.c(31,20): warning C4013: “strlen”未定义；假设外部返回 int
-E:\gitSorce\ccpp\step1\chapter4\Main.c(35,8): warning C4013: “time”未定义；假设外部返回 int
-  chapter4.vcxproj -> E:\gitSorce\ccpp\step1\step1\x64\Debug\chapter4.exe
+D:\Sorce\ccpp\step1\chapter4\Main.c(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Sorce\ccpp\step1\chapter4\Main.c(33,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Sorce\ccpp\step1\chapter4\Main.c(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\Sorce\ccpp\step1\chapter4\Main.c(33,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Sorce\ccpp\step1\chapter4\Main.c(38,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Sorce\ccpp\step1\chapter4\Main.c(44,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Sorce\ccpp\step1\chapter4\Main.c(40,1): warning C4716: “main02”: 必须返回一个值
+  chapter4.vcxproj -> D:\Sorce\ccpp\step1\step1\x64\Debug\chapter4.exe

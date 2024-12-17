@@ -1,15 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\step1\\",
+  "WorkspaceRootPath": "D:\\Sorce\\ccpp\\step1\\step1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9357ED9A-D054-45F4-A81F-B75DF1695CB0}|..\\chapter4\\chapter4.vcxproj|D:\\Sorce\\ccpp\\step1\\chapter4\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,40 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Snake.c",
-              "DocumentMoniker": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.c",
-              "RelativeDocumentMoniker": "..\\snake\\Snake.c",
-              "ToolTip": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.c",
-              "RelativeToolTip": "..\\snake\\Snake.c",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAkwJoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-28T15:52:34.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Snake.h",
-              "DocumentMoniker": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.h",
-              "RelativeDocumentMoniker": "..\\snake\\Snake.h",
-              "ToolTip": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Snake.h",
-              "RelativeToolTip": "..\\snake\\Snake.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-28T15:52:32.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Main.c",
-              "RelativeDocumentMoniker": "..\\snake\\Main.c",
-              "ToolTip": "C:\\Users\\ppg42588\\Documents\\c\u8BED\u8A00\\cproject\\ppg-ci\\step1\\snake\\Main.c",
-              "RelativeToolTip": "..\\snake\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Sorce\\ccpp\\step1\\chapter4\\Main.c",
+              "RelativeDocumentMoniker": "..\\chapter4\\Main.c",
+              "ToolTip": "D:\\Sorce\\ccpp\\step1\\chapter4\\Main.c",
+              "RelativeToolTip": "..\\chapter4\\Main.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-28T15:52:33.987Z",
+              "WhenOpened": "2024-12-14T12:38:23.405Z",
               "EditorCaption": ""
             }
           ]

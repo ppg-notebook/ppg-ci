@@ -2,6 +2,8 @@
 
 #include<stdio.h>
 #include<stdlib.h>
+#include<time.h>
+#include<Windows.h>
 
 int main01()
 {
@@ -21,7 +23,7 @@ int main01()
 	return EXIT_SUCCESS;
 }
 
-int main()
+int main02()
 {
 	char arr1[12] = { 0 };
 	char arr2[12] = { 0 };
@@ -35,4 +37,76 @@ int main()
 	putchar('\n');
 	srand(time(NULL));
 	printf("%d\n", rand());
+}
+
+int main03()
+{
+	srand(time(NULL));
+	int num;
+	int inPut = 0;
+LABLE:
+	num = rand() % 100 + 1;
+	while (1)
+	{
+		printf("输入：");
+		scanf("%d", &inPut);
+		if (inPut > num)
+			printf("大了");
+		else if (inPut < num)
+			printf("小了");
+		else break;
+	}
+	printf("对了:%d\n", num);
+goto LABLE;
+	return 0;
+}
+
+int main04()
+{
+	for (int i = 0; i < 24; i++)
+	{
+		for (int j = 0; j < 60; j++)
+		{
+			for (int k = 0; k < 60; k++)
+			{
+				Sleep(999);
+				system("cls");
+				printf("%02d:%02d:%02d\n", i, j, k);
+			}
+		}
+	}
+	return 0;
+}
+
+int main05()
+{
+	for (int i = 1; i < 10; i++)
+	{
+		for (int j = 1; j < i + 1; j++)
+		{
+			printf("%dx%d=%d\t", i, j, i * j);
+		}
+		printf("\n");
+	}
+
+	return 0;
+}
+
+int main06()
+{
+	for (int i = 9; i > 0; i--)
+	{
+		for (int j = i; j > 0; j--)
+		{
+			printf("%dx%d=%d\t", i, j, i * j);
+		}
+		printf("\n");
+	}
+	return 0;
+}
+
+int main()
+{
+
+	return 0;
 }
